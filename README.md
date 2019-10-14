@@ -6,7 +6,7 @@ It is a spoon for hammerspoon
 
 ## Where is from 
 
-Copy and change from [This](https://github.com/scottcs/dot_hammerspoon/blob/2495d931782fb485459a254bb62557b93329ac14/.hammerspoon/modules/hazel.lua)
+Copy and change from [Here](https://github.com/scottcs/dot_hammerspoon/blob/2495d931782fb485459a254bb62557b93329ac14/.hammerspoon/modules/hazel.lua)
 
 
 
@@ -42,6 +42,10 @@ cp .hammerspoon/Spoons/Hazel.spoon/hazel.lua ~/.hammerspoon/private/hazel.lua
 ```
 
 ###### Four
+
+If you use [my config](https://github.com/northleafup/my-hammerspoon), please refer [this](https://github.com/northleafup/my-hammerspoon#2-load-specify-spoon).
+
+else：
 
 Update init.lua file ,add content as follow
 
